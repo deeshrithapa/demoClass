@@ -39,3 +39,5 @@ obj1 = C1()
 print(type(obj1))
 print(id(obj1))
 print(obj1)
+
+heloo
